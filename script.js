@@ -12,13 +12,13 @@ const gifStages = [
 const noMessages = [
     "No",
     "Gì?",
-    "Á à",
+    "Ỏ đừng mò cún iu",
     "Anh buồn đấy :(",
-    "Ỏ đừng mò cún",
-    "💔",
-    "Bye cún",
     "Cơ hội cuối",
-    "Đố em bắt được anh :v"
+    "Đố em bắt được anh",
+    "Bye cún",
+    "Cố chấp lắm",
+    "Ghét cún :v"
 ]
 
 const yesTeasePokes = [
